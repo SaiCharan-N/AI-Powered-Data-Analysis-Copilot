@@ -1,4 +1,4 @@
-# LLM-Powered Data Analysis Copilot
+# AI-Powered Data Analysis Copilot using LLMs
 
 A full-stack AI data analysis copilot that lets users upload CSV datasets, ask questions in natural language, and receive generated SQL, safe query results, charts, ML enrichment, forecasts, and concise business insights.
 
